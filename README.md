@@ -11,7 +11,7 @@ $99, 5-10 watts, 4GB RAM, Jetson Nano module installed (NVIDIA Maxwell™ archit
 I had previously attempted this project with a Raspberry PI 3 but ran into lack of RAM (1GB maximum).
 Also lots of configuration changes gave issues, what with Google TensorFlow updating so quickly and requiring changes to the NVIDA CUDA library to match it - don't get me started on overhead of keeping tools in sync!
 
-I considered the Google Coral Dev Board, but ultimately its 2GB RAM (and my PC with an NVIDA GTX-1080 card) pushed me the other way.
+I considered the Google Coral Dev Board, but ultimately its 1GB RAM (and my PC with an NVIDA GTX-1080 card) pushed me the other way.
 https://coral.withgoogle.com/products/dev-board
 
 Just getting started now.
