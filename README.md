@@ -18,3 +18,6 @@ Just getting started now.
 
 Planning to use ResNet
 https://github.com/tensorflow/models/tree/master/official/resnet
+Okay, maybe SimpNet instead
+https://arxiv.org/abs/1802.06205
+https://github.com/Coderx7/SimpNet
