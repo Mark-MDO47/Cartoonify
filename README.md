@@ -15,3 +15,6 @@ I considered the Google Coral Dev Board, but ultimately its 1GB RAM (and my PC w
 https://coral.withgoogle.com/products/dev-board
 
 Just getting started now.
+
+Planning to use ResNet
+https://github.com/tensorflow/models/tree/master/official/resnet
