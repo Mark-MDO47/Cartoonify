@@ -1,5 +1,5 @@
 # Cartoonify
-NVIDIA Jetson Nano implementation of Dan MacNish brilliant "Draw This" camera
+NVIDIA Jetson Nano implementation of Dan MacNish brilliant "Draw This" camera.
 Apologies to Dan if I didn't capitalize the name correctly...
 https://github.com/danmacnish/cartoonify
 
@@ -9,9 +9,16 @@ https://smile.amazon.com/NVIDIA-Jetson-Nano-Developer-Kit/dp/B07PZHBDKT/ref=sr_1
 $99, 5-10 watts, 4GB RAM, Jetson Nano module installed (NVIDIA Maxwell™ architecture with 128 NVIDIA CUDA® cores)
 
 I had previously attempted this project with a Raspberry PI 3 but ran into lack of RAM (1GB maximum).
-Also lots of configuration changes gave issues, what with Google TensorFlow updating so quickly and requiring changes to the NVIDA CUDA library to match it - don't get me started on overhead of keeping tools in sync!
+Also lots of configuration changes gave issues, what with Google TensorFlow updating so quickly and requiring changes to the NVIDA CUDA library and Microsoft Visual Studio to match it - don't get me started on overhead of keeping tools in sync!
 
-I considered the Google Coral Dev Board, but ultimately its 2GB RAM (and my PC with an NVIDA GTX-1080 card) pushed me the other way.
+I considered the Google Coral Dev Board, but ultimately its 1GB RAM (and my PC with an NVIDA GTX-1080 card) pushed me the other way.
 https://coral.withgoogle.com/products/dev-board
 
 Just getting started now.
+
+Planning to use ResNet
+https://github.com/tensorflow/models/tree/master/official/resnet
+
+Okay, maybe SimpNet instead, but it only has CIFAR-100
+https://arxiv.org/abs/1802.06205
+https://github.com/Coderx7/SimpNet
