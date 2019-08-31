@@ -35,6 +35,9 @@ https://github.com/tensorflow/models/tree/master/official/resnet
 ... recently moved:
 https://github.com/tensorflow/models/tree/master/official/vision/image_classification
 
+This one discusses transfer learning:
+https://github.com/tensorflow/models/tree/master/official/r1/resnet
+
 Okay, maybe SimpNet instead, but it only has CIFAR-100
 https://arxiv.org/abs/1802.06205
 https://github.com/Coderx7/SimpNet
