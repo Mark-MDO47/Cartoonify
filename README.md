@@ -7,8 +7,11 @@ Dan and others have been busy! check out this area for a demo of what Dan's vers
 https://www.kapwing.com/cartoonify
 
 Planning to use the new NVIDIA Jetson Nano to implement this with a few cosmetic enhancements
+
 https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/
-https://smile.amazon.com/NVIDIA-Jetson-Nano-Developer-Kit/dp/B07PZHBDKT/ref=sr_1_2?crid=I8Q7XAARPUZY&keywords=nvidia+jetson+nano&qid=1560092891&s=electronics&sprefix=nvidia+jetson%2Celectronics%2C362&sr=1-2
+
+https://smile.amazon.com/NVIDIA-Jetson-Nano-Developer-Kit/dp/B07PZHBDKT
+
 $99, 5-10 watts, 4GB RAM, Jetson Nano module installed (NVIDIA Maxwell™ architecture with 128 NVIDIA CUDA® cores). This has an astonishing 472 MegaFlops of 16-bit floating point.
 
 # 2019-07-07
