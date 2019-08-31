@@ -32,6 +32,8 @@ https://coral.withgoogle.com/products/dev-board
 
 Planning to use ResNet
 https://github.com/tensorflow/models/tree/master/official/resnet
+... recently moved:
+https://github.com/tensorflow/models/tree/master/official/vision/image_classification
 
 Okay, maybe SimpNet instead, but it only has CIFAR-100
 https://arxiv.org/abs/1802.06205
