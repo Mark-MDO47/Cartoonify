@@ -1,6 +1,5 @@
 # Cartoonify
-NVIDIA Jetson Nano implementation of Dan MacNish brilliant "Draw This" camera.
-Apologies to Dan if I didn't capitalize the name correctly...
+NVIDIA Jetson Nano implementation of Dan Macnish brilliant "Draw This" camera.
 https://github.com/danmacnish/cartoonify
 
 Dan and others have been busy! check out this area for a demo of what Dan's version can do
