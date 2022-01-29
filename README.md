@@ -13,6 +13,15 @@ https://smile.amazon.com/NVIDIA-Jetson-Nano-Developer-Kit/dp/B07PZHBDKT
 
 $99, 5-10 watts, 4GB RAM, Jetson Nano module installed (NVIDIA Maxwell™ architecture with 128 NVIDIA CUDA® cores). This has an astonishing 472 MegaFlops of 16-bit floating point.
 
+# 2022-01-28
+
+Restarting; was busy with the SciFi Rubber Band Gun and other projects: https://github.com/Mark-MDO47/RubberBandGun
+
+Some new resources:
+* https://github.com/tensorflow/models/tree/master/official
+* https://keras.io/examples/vision/image_captioning/
+* https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image
+
 # 2019-07-07
 
 Just took the nVidia "Hello AI World. Meet Jetson Nano." webinar - it was great! Makes me realize I might not need to install the full TensorFlow package although that is theoretically possible. When I actually tried it I kept running into the same configuration issues I have on the PC when using GPUs: it is extraordinarily picky about exactly which version of everything.
@@ -30,12 +39,17 @@ I considered the Google Coral Dev Board, but ultimately its 1GB RAM (and my PC w
 https://coral.withgoogle.com/products/dev-board
 
 Planning to use ResNet
-https://github.com/tensorflow/models/tree/master/official/resnet
+* https://github.com/tensorflow/models/tree/master/official/resnet
 ... recently moved:
-https://github.com/tensorflow/models/tree/master/official/vision/image_classification
+* https://github.com/tensorflow/models/tree/master/official/vision/image_classification
+... moved again
+* https://github.com/tensorflow/models/tree/master/official/legacy/image_classification
+... and again:
+* https://github.com/tensorflow/models/tree/master/official/vision/beta
 
 This one discusses transfer learning:
-https://github.com/tensorflow/models/tree/master/official/r1/resnet
+* no longer valid https://github.com/tensorflow/models/tree/master/official/r1/resnet
+* https://github.com/tensorflow/models/tree/master/official/
 
 Okay, maybe SimpNet instead, but it only has CIFAR-100
 https://arxiv.org/abs/1802.06205
